@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jshmill&show_icons=true&theme=jolly&hide_border=true&border_radius=15" width="400">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Jshmill&theme=jolly&hide_border=true&border_radius=15&card_width=500&card_height=200" alt="GitHub Streak" /></a>
-<a href="https://github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jshmill&layout=compact&theme=jolly&hide_border=true&border_radius=15" /></a>
+<a href="https://github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jshmill&layout=compact&theme=jolly&hide_border=true&border_radius=15" /> </a>
