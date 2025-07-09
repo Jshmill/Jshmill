@@ -20,7 +20,7 @@ I'm a Math & Computer Science student at Gordon College with a passion for full-
 
 ## 🛠️ Tech Stack
 - **Languages & Frameworks:** Python, JavaScript, React, Java, HTML, CSS
-- **Interests:** Full-stack development, machine learning, UI/UX, Game Developent
+- **Interests:** Full-stack Development, Machine Learning, UI/UX, Game Development
 
 ## 🎓 Campus Involvement
 - President of the Computer Science Club at Gordon College
