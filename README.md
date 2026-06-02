@@ -1,41 +1,55 @@
-
-<!--
-**Jshmill/Jshmill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi, I'm Josh 👋
 
-I'm a Mathematics & Computer Science double major at Gordon College with a passion for full-stack development, web development, and machine learning. I enjoy building clean, user-focused applications and solving challenging problems through code.
+I'm a Software Engineer passionate about building scalable applications, creating great user experiences, and solving complex problems through code.
+
+Currently, I'm working as a Software Engineer at Veracross, where I'm continuing to grow as a developer and contribute to software that supports schools around the world.
+
+## 🚀 About Me
+
+* 💻 Software Engineer at Veracross
+* 🎓 B.S. in Mathematics & Computer Science from Gordon College
+* 🌱 Interested in Full-Stack Development, Machine Learning, and Software Architecture
+* 🎯 Enjoy building clean, maintainable, and user-focused applications
+* 🤝 Always excited to learn new technologies and collaborate with other developers
 
 ## 🛠️ Tech Stack
-- **Languages & Frameworks:** Python, JavaScript, React, React-Native, Java, C++, HTML, CSS
-- **Interests:** Full-stack Development, Machine Learning, UI/UX, Game Development
 
-## 🎓 Campus Involvement
-- President of the Computer Science Club at Gordon College
-- Computer Science Tutor Coordinator at Gordon College
-- Discreet Math and Probability Teacher's Assistant
+**Languages**
+
+* Python
+* JavaScript / TypeScript
+* Java
+* C++
+* SQL
+
+**Frameworks & Technologies**
+
+* React
+* React Native
+* Node.js
+* HTML
+* CSS
+* Git
+
+## 📌 Areas of Interest
+
+* Full-Stack Development
+* Web Applications
+* Machine Learning
+* UI/UX Design
+* Developer Tools
+* Game Development
 
 ## ✨ Outside of Tech
-When I’m not coding, you’ll find me enjoying music, playing sports, and living for Jesus
 
-## 📫 Get in Touch
-- 📧 Email: [joshuamiller1@gmail.com](mailto:joshuamiller1@gmail.com)  
-- 💼 LinkedIn: [joshua-miller426](https://www.linkedin.com/in/joshua-miller426)
+When I'm not coding, you'll find me:
 
-##
-<!-- Feel free to check back soon for featured projects! -->
+* 🎵 Enjoying music
+* ⚽ Playing sports
+* 📖 Reading and learning
+* ✝️ Living for Jesus
 
+## 📫 Connect With Me
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jshmill&show_icons=true&theme=jolly&hide_border=true&border_radius=15" width="400"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jshmill&layout=compact&theme=jolly&hide_border=true&border_radius=15" />
+* 📧 Email: [joshuamiller1@gmail.com](mailto:joshuamiller1@gmail.com)
+* 💼 LinkedIn: linkedin.com/in/joshua-miller426
