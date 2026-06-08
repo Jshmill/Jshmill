@@ -18,8 +18,6 @@ Currently, I'm working as a Software Engineer at Veracross, where I'm continuing
 
 * Python
 * JavaScript / TypeScript
-* Java
-* C++
 * SQL
 
 **Frameworks & Technologies**
