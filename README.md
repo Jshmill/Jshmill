@@ -2,7 +2,7 @@
 
 I'm a Software Engineer passionate about building scalable applications, creating great user experiences, and solving complex problems through code.
 
-Currently, I'm working as a Software Engineer at Veracross, where I'm continuing to grow as a developer and contribute to software that supports schools around the world.
+Currently, I'm working as a Software Engineer at Veracross, where I'm continuing to grow as a developer and contribute to software that supports schools globally.
 
 ## 🚀 About Me
 
@@ -22,11 +22,8 @@ Currently, I'm working as a Software Engineer at Veracross, where I'm continuing
 
 **Frameworks & Technologies**
 
-* React
-* React Native
+* React / React Native
 * Node.js
-* HTML
-* CSS
 * Git
 
 ## 📌 Areas of Interest
